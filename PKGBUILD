@@ -6,7 +6,7 @@ _pkgbase=parse-android-dynparts
 pkgver=10.c8837c1
 pkgrel=1
 arch=('aarch64')
-url="https://twitter.com/githubstatus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+url="https://github.com/tchebb/parse-android-dynparts"
 license=('GPL2')
 depends=('device-mapper')
 makedepends=('git' 'make' 'cmake')
